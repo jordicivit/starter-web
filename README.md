@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 Please fork this repository and then add...
 
 ###Copyright
-Gitcourse
+Gitcourse. all rights reserved.
